@@ -1,7 +1,7 @@
 <?php
 $hostname="localhost";
-$username="root";
-$password="krishnendu";
+$username="test";
+$password="test@123";
 $dbname="online_admission_system_app";
 
 $conn=mysqli_connect($hostname,$username,$password,$dbname);
